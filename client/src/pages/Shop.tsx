@@ -28,7 +28,7 @@ export default function Shop() {
   });
 
   const orderMutation = useMutation({
-    mutationFn: async (data: typeof formData) => {
+    mutationFn: async (data: Omit<typeof formData, 'quantity'> & { quantity: number }) => {
       return await apiRequest('POST', '/api/orders', data);
     },
     onSuccess: () => {
