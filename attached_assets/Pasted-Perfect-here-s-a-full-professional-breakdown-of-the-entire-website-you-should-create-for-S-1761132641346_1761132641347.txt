@@ -1,0 +1,175 @@
+Perfect — here’s a **full, professional breakdown** of the entire website you should create for **“Scent Atelier”**, aligning exactly with the requirements shown in the photo and giving it a creative, real-world perfume brand feel.
+
+---
+
+## 🌸 PROJECT TITLE: SCENT ATELIER – The Art of Fragrance
+
+---
+
+### 🧭 **1. Website Overview**
+
+**Scent Atelier** is a luxurious, modern perfume brand website designed to showcase handcrafted fragrances, recent product campaigns, and provide an online platform for customers to explore and make inquiries or purchases.
+
+The website is elegant, image-driven, and uses visual storytelling to convey sophistication — as if the visitor is walking through an art gallery of scents.
+
+---
+
+### 📑 **2. Pages to Include**
+
+#### 🏠 **a) Home Page**
+
+**Purpose:** To welcome visitors and introduce the brand identity.
+**Content & Features:**
+
+* Brand logo “Scent Atelier” at the top center.
+* Navigation bar with links: *Home | Products | About | Adverts | Shop | Contact*
+* Marquee text scrolling across:
+  *“Welcome to Scent Atelier — Experience the Art of Fragrance | Discover Your Signature Scent Today!”*
+* Background image: a blurred perfume bottle with soft lighting.
+* Short intro paragraph:
+
+  > “Scent Atelier is a fragrance studio dedicated to crafting exquisite, emotion-driven perfumes. Each scent is a masterpiece — designed to evoke memories and moments.”
+* A button linking to the products page (*“Explore Collection”*).
+
+---
+
+#### 🧴 **b) Products Page**
+
+**Purpose:** To display different perfumes offered.
+**Content & Features:**
+
+* Elegant product grid or table layout with images, names, and short descriptions.
+* Example table:
+
+| Product Name | Type   | Price     | Description                            |
+| ------------ | ------ | --------- | -------------------------------------- |
+| L’Amour      | Floral | Ksh 5,500 | A blend of rose, jasmine, and vanilla. |
+| Noir Essence | Woody  | Ksh 6,800 | Deep, musky, and mysterious.           |
+| Soleil       | Citrus | Ksh 4,900 | Bright, fresh, and full of sunshine.   |
+
+* Background: light gradient or subtle floral pattern.
+* Internal links on product names leading to detailed sections using **anchors**.
+* Optional: use frames to show side promotions (like “Buy 2 Get 1 Free”).
+
+---
+
+#### 🧠 **c) About Page**
+
+**Purpose:** To tell the brand story.
+**Content:**
+
+* Background: elegant image of a perfume workshop (atelier).
+* Text:
+
+  > “Founded in 2025, Scent Atelier emerged from a passion for olfactory art. Each bottle is handcrafted with precision, blending tradition and innovation to create timeless fragrances.”
+* Include an image of a perfume designer mixing scents.
+* Link back to Home and Products.
+
+---
+
+#### 📰 **d) Advertisement Page**
+
+**Purpose:** To showcase the company’s latest promotional campaign.
+**Content & Features:**
+
+* Title: *“The Essence of Confidence – New 2025 Campaign.”*
+* Embedded video or poster (Photoshop-designed ad mockup).
+* Background: dark elegant gradient.
+* A short paragraph describing the ad:
+
+  > “Our new ad celebrates individuality and expression. Scent Atelier – for those who wear their story.”
+* Include a marquee announcing the latest offers:
+  *“Limited Edition: Noir Essence now available in exclusive 50ml bottles!”*
+
+---
+
+#### 💳 **e) Online Transactions / Contact Page**
+
+**Purpose:** To simulate an online purchase or contact form.
+**Content & Features:**
+
+* Title: *“Shop or Get in Touch.”*
+
+* Background image of a shopping counter or minimal perfume shelf.
+
+* A form for customers to place an order:
+
+  **Order Form:**
+
+  * Name
+  * Email
+  * Phone Number
+  * Select Product (dropdown)
+  * Quantity
+  * Delivery Address
+  * Submit button
+
+* Use a **table** below to show estimated shipping fees.
+
+* After form submission, show a message (using simple JavaScript alert or link):
+  *“Thank you for your interest! Our team will reach out to confirm your order.”*
+
+---
+
+### 🖼️ **3. Design Features to Include (as per assignment)**
+
+| Feature                | Implementation in Scent Atelier                                  |
+| ---------------------- | ---------------------------------------------------------------- |
+| **Background Images**  | Each page uses a different perfume-themed image.                 |
+| **Appropriate Images** | Perfume bottles, flowers, oils, elegant textures.                |
+| **Links**              | Navigation bar + internal anchors between products and sections. |
+| **Frames**             | Use a side frame to show ads or promotional quotes.              |
+| **Tables**             | Used for product listing and pricing.                            |
+| **Forms**              | Used on the Contact/Transaction page.                            |
+| **Marquee**            | Used on Home and Adverts pages for scrolling messages.           |
+
+---
+
+### 🎨 **4. Color Palette & Typography**
+
+* **Primary Colors:** Cream white (#FFF8F2), Gold (#CDAA7D), Charcoal Gray (#333333).
+* **Accent Colors:** Soft Pink (#EACBC3), Coffee Brown (#5A3E36).
+* **Fonts:**
+
+  * Headings: *Playfair Display* (elegant serif)
+  * Body Text: *Poppins* or *Open Sans* (clean sans-serif)
+
+---
+
+### 🔗 **5. Folder Structure Example**
+
+```
+ScentAtelier/
+│
+├── index.html          (Home)
+├── products.html       (Products)
+├── about.html          (About)
+├── adverts.html        (Advertisements)
+├── shop.html           (Online transactions)
+│
+├── css/
+│   └── style.css
+│
+├── images/
+│   ├── logo.png
+│   ├── background1.jpg
+│   ├── perfume1.jpg
+│   ├── perfume2.jpg
+│   └── advert.jpg
+│
+└── scripts/
+    └── main.js
+```
+
+---
+
+### 🚀 **6. Final Touches**
+
+* Use smooth transitions between pages.
+* Include your **name and registration number** at the footer of all pages.
+* Add a small tagline:
+  *“© 2025 Scent Atelier. Crafted by [Your Name].”*
+
+---
+
+Would you like me to generate a **ready-to-use HTML + CSS base** for the entire “Scent Atelier” website (meeting all requirements like marquee, table, form, frames, etc.) so you can just edit and submit it?
