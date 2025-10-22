@@ -7,7 +7,7 @@ export function Footer() {
             © 2025 Scent Atelier. All rights reserved.
           </p>
           <p className="text-xs text-muted-foreground" data-testid="text-credits">
-            Crafted by [Your Name] - [Your Registration Number]
+            Crafted by William - [Your Registration Number]
           </p>
         </div>
       </div>
